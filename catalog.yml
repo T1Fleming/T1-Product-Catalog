@@ -1,7 +1,11 @@
 ---
 '1750052532':
-  productName: Obsidian Assets Manager
+  productName: Obsidian Enhancement Tools
+  description: Yup
+  docs: 
+  - null
   repos:
-  - http://www.google.com
+  - https://github.com/T1Fleming/Obsidian-Assets-Server
+  - https://github.com/T1Fleming/Obsidian-Card-Generator-Light
 '1750052533':
   productName: Obsidian Assets Manager
